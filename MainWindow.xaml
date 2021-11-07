@@ -1,0 +1,21 @@
+﻿<Window x:Class="RegistrarUsuario.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RegistrarUsuario"
+        mc:Ignorable="d"
+        Title="Inicio" Height="250" Width="500">
+    <Grid>
+        <StackPanel>
+            <Menu Height="20">
+                <MenuItem Header="Registros">
+                    <MenuItem x:Name="UsuariosMenuItem" Header="Registro de Usuarios" Click="UsuariosMenuItem_Click"/>
+                </MenuItem>
+                <MenuItem Header="Consultas">
+                    <MenuItem x:Name="ConsultaUsuarioMenuItem" Header="Consulta de Usuarios" Click="ConsultaUsuarioMenuItem_Click"/>
+                </MenuItem>
+            </Menu>
+        </StackPanel>
+    </Grid>
+</Window>
