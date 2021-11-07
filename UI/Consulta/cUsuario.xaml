@@ -19,6 +19,7 @@
 
                 <Button x:Name="BuscarCButton" Height="28" Width="93" Click="BuscarCButton_Click"  VerticalAlignment="Bottom" Margin="0,0,5,10">
                     <StackPanel Orientation="Horizontal" >
+                        <Image Source="/Resources/seo-social-web-network-internet_340_icon-icons.com_61497.png" />
 
                         <Label Content="Buscar" />
                     </StackPanel>

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "wWsbQdG8vPUAL0D71rmr30iyEM9T065aI4V2SPkqJ01fA/tBJylQzDUJlNEXob5Q59CiA37CrmMZRXWA8xhU/A==",
+  "dgSpecHash": "qrsJOmaP6ypybwOAyrg8Tk0jOLRDvn3/+C1lF5NsipggrZA8AE181bzSq4p7r/5HJ14v5PZCuzAH3aDbJyVY0g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Asus\\Documents\\Programacion Aplicada I\\Tarea V\\RegistrarUsuario\\RegistrarUsuario.csproj",
   "expectedPackageFiles": [
@@ -33,9 +33,7 @@
     "C:\\Users\\Asus\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\system.text.encodings.web\\5.0.0\\system.text.encodings.web.5.0.0.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+    "C:\\Users\\Asus\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
   ],
   "logs": []
 }

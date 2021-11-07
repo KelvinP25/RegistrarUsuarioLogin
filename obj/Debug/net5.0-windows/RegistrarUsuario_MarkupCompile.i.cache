@@ -1,0 +1,20 @@
+﻿RegistrarUsuario
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea V\RegistrarUsuario\obj\Debug\net5.0-windows\
+RegistrarUsuario
+none
+false
+TRACE;DEBUG;NET;NET5_0;NETCOREAPP
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea V\RegistrarUsuario\App.xaml
+4634629196
+6-746242588
+18-639134465
+2131604883136
+MainWindow.xaml;UI\Consulta\cUsuario.xaml;UI\Login.xaml;UI\Registro\rUsuario.xaml;
+
+False
+

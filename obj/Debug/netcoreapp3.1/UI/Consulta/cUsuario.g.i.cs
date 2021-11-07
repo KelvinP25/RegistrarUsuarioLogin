@@ -77,7 +77,7 @@ namespace RegistrarUsuario.UI.Consulta {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/RegistrarUsuario;component/ui/consulta/cusuario.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/RegistrarUsuario;V1.0.0.0;component/ui/consulta/cusuario.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\UI\Consulta\cUsuario.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

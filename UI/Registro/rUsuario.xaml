@@ -17,7 +17,8 @@
 
                     <Button x:Name="BuscarButton" Margin="6,0" Click="BuscarButton_Click">
                         <StackPanel Orientation="Horizontal">
-                            
+                            <Image Source="/Resources/seo-social-web-network-internet_340_icon-icons.com_61497.png" Height="17" Width="20"/>
+
                             <Label Content="Buscar"/>
                         </StackPanel>
                     </Button>
@@ -44,21 +45,24 @@
             <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,15">
                 <Button x:Name="NuevoButton" Click="NuevoButton_Click">
                     <StackPanel Orientation="Horizontal">
-                       
+                        <Image Source="/Resources/person-add_icon-icons.com_50077.png" Height="20"/>
+
                         <Label Content="Nuevo"/>
                     </StackPanel>
                 </Button>
 
                 <Button x:Name="GuardarButton" Margin="15,0" Click="GuardarButton_Click">
                     <StackPanel Orientation="Horizontal">
-                      
+                        <Image Source="/Resources/save_3621.png" Height="20" />
+
                         <Label Content="Guardar"/>
                     </StackPanel>
                 </Button>
 
                 <Button x:Name="EliminarButton" Click="EliminarButton_Click">
                     <StackPanel Orientation="Horizontal">
-                      
+                        <Image Source="/Resources/seo-social-web-network-internet_262_icon-icons.com_61518.png"  Height="25"/>
+
                         <Label Content="Eliminar"/>
                     </StackPanel>
                 </Button>
